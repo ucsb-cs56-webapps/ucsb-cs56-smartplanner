@@ -20,8 +20,7 @@
 <!-- # links to check for myself
 https://github.com/ninikat/todomustacheExpress/blob/master/views/todo.mustache -->
 
-----------------
-# Random Messages
+## random messages
 
  
 This repo hasn't really started yet and definitely needs a lot more work. I will be working from time to time in the playground branch. -- Nuan
