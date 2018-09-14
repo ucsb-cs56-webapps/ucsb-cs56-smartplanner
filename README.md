@@ -24,7 +24,7 @@ https://github.com/ninikat/todomustacheExpress/blob/master/views/todo.mustache -
 # Random Messages
 
  
-This repo hasn't really started yet and definitely needs a lot more work. I Will be working from time to time in the playground branch. -- Nuan
+This repo hasn't really started yet and definitely needs a lot more work. I will be working from time to time in the playground branch. -- Nuan
 
 ----------------
 
