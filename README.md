@@ -8,7 +8,7 @@
 
 - to-do list editor
 
-    - tasks, due dates or priority levels, time estimates, & all other preferences
+    - tasks, due dates or priority levels, time estimates & all other preferences
 
 
 - a "smart" organizer
