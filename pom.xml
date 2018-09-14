@@ -178,20 +178,11 @@
           <jdkVersion>1.8</jdkVersion>
           <!-- Use your own application name -->
 	  <!-- at Heroku CLI, use heroku apps to list, or use Heroku Dashboard -->
-<<<<<<< HEAD
           <appName>${userDefinedHerokuApp}</appName>
           <processTypes>
             <!-- Tell Heroku how to launch your application -->
             <!-- You might have to remove the ./ in front   -->
 						<web>java $JAVA_OPTS -jar target/${project.name}-${project.version}-jar-with-dependencies.jar</web>
-
-=======
-          <appName>ucsb-cs56-nuan-08-28-2018</appName> 
-          <processTypes>
-            <!-- Tell Heroku how to launch your application -->
-            <!-- You might have to remove the ./ in front   -->
-            <web>java $JAVA_OPS -jar target/sparkjava-demo-01-1.0-jar-with-dependencies.jar</web>
->>>>>>> 09f2e9b51c32ef361bfcc042c31deeb302e8599e
           </processTypes>
 	</configuration>
       </plugin>
