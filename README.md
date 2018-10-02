@@ -3,23 +3,30 @@
 
 - schedule importer
 
-  - maybe import from GOLD / Google Calendar
+  - eventually have to import users' schedule from GOLD / Google Calendar
 
 
 - to-do list editor
 
-    - tasks, due dates or priority levels, time estimates & all other preferences
+    - get users' tasks (to-dos)
+    - collect infomation on due dates, priority levels, time/duration estimates & all other preferences
 
 
 - a "smart" organizer
 
-    - which read from user's todo list and fit them into the imported, schedule
-    - maybe then
+    - read from the stored todo list and "smartly" fit them into the imported schedule
+    - can be creative / fancy here
 
 
 <!-- # links to check for myself
 https://github.com/ninikat/todomustacheExpress/blob/master/views/todo.mustache -->
 
+## random messages
+
+ 
+This repo hasn't really started yet and definitely needs a lot more work. ~~I will be working from time to time in the playground branch.~~ Sorry. What a busy quarter. :( -- Nuan
+
+----------------
 
 # To use
 
